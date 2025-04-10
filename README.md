@@ -1,1 +1,1 @@
-# MyRentalProject
+# MyRentalProject.github.io
